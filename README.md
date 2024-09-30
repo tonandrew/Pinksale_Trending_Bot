@@ -8,7 +8,7 @@ A bot to trend a Project on pinksale finance
 
 you cannot just use this bot by downloading this repository
 
-If you are interested contact me through here <a href="#contact">Contact</a>
+・Purchase it online and get a 10% Discount: https://shoppy.gg/@KenzabyteBot 👍
 
 ## Features
 🔺 No Badges Required
@@ -54,7 +54,7 @@ If you are interested contact me through here <a href="#contact">Contact</a>
 ## Contact
 For any kind of further assistant kindly DM me on Telegram.
 
-Telegram : [@Trending_Bot_Developer](https://t.me/Trending_Bot_Developer)
+Telegram : DM me from Telegram: https://t.me/tooolz25 if you are interested.🤝
 
 Find me on Youtube : https://www.youtube.com/channel/UCz5r6iZ1g-ehoB2Kjl9etnw
 
